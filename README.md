@@ -57,6 +57,7 @@ py manage.py createsuperuser
 - we can change theme of website day(white) and night(black)
 - if customer is deleted by admin then their request(Enquiry) will be deleted automatically
 
+## Here is the project link
 https://vehicle-management-system.azurewebsites.net
 
 
